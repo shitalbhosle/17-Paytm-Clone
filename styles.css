@@ -1,0 +1,50 @@
+
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 600;
+}
+
+.fa-solid{
+    font-size: 20px;
+}
+.hero-logo{
+    width: 80px;
+    box-shadow: 0 5px 20px rgb(0 41 112 / 10%);
+    border-radius: 16px;
+}
+.header{
+    letter-spacing: 2px;
+    
+}
+#para{
+    /* width:430px; */
+    font-size: 20px;
+    /* padding-top: 18px; */
+    
+    line-height: 30px;
+    font-weight: 500;
+    padding-bottom: 2rem;
+}
+/* .hero-right{
+    height:20rem;
+    padding-right: 4rem;
+} */
+h3{
+    font-size: 18px;
+    
+}
+.card{
+    border-radius: 10px;
+    background: #66d6ff;
+    padding: 5px 0;
+    white-space: normal;
+    text-align: center;
+    cursor: pointer;
+    width: 155px;
+    height: 230px;
+    min-width: 155px;
+    min-height: 230px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
